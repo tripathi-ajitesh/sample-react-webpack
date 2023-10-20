@@ -1,4 +1,4 @@
-# Hi Everyone 
+# SAMPLE REACT WEBPACK APP 
 **This is sample project to initialise and setup a react application which is using webpack and babel.**
 
 *First install all the dependencies present in package.json file*
