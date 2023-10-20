@@ -1,18 +1,18 @@
 # SAMPLE REACT WEBPACK APP 
 **This is sample project to initialise and setup a react application which is using webpack and babel.**
 
-''' git clone git@github.com:tripathi-ajitesh/sample-react-webpack.git
+``` git clone git@github.com:tripathi-ajitesh/sample-react-webpack.git
 *First install all the dependencies present in package.json file*
 
-'''npm install
+``` npm install
 
 *Run the build command*
 
-'''npm run build
+``` npm run build
 
 *Run the serve command*
 
-'''npm run serve
+``` npm run serve
 
 **You can access your application**
 1. open [link] (http://localhost:3000/) on your browser
